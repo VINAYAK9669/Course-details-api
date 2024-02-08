@@ -1,0 +1,837 @@
+[
+{
+  "id": 1,
+  "name": "Introduction to React Native",
+  "instructor": "John Doe",
+  "description": "Learn the basics of React Native development and build your first mobile app.",
+  "enrollmentStatus": "Open",
+  "thumbnail": "/images/basic_java",
+  "duration": "8 weeks",
+  "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+  "location": "Online",
+  "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "Introduction to React Native",
+      "content": "Overview of React Native, setting up your development environment."
+    },
+    {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "Creating a simple mobile app using React Native components."
+    },
+    {
+      "week": 3,
+      "topic": "Navigation in React Native",
+      "content": "Implementing navigation between screens in React Native apps."
+    },
+    {
+      "week": 4,
+      "topic": "State Management",
+      "content": "Managing state in React Native applications using hooks and context."
+    },
+    {
+      "week": 5,
+      "topic": "Working with APIs",
+      "content": "Fetching data from APIs and integrating them into React Native apps."
+    },
+    {
+      "week": 6,
+      "topic": "Advanced UI Components",
+      "content": "Exploring advanced UI components and libraries in React Native."
+    },
+    {
+      "week": 7,
+      "topic": "Debugging and Testing",
+      "content": "Techniques for debugging and testing React Native applications."
+    },
+    {
+      "week": 8,
+      "topic": "Deployment and Publishing",
+      "content": "Preparing and publishing React Native apps to app stores."
+    }
+  ],
+ "students": [
+    {
+      "id": 101,
+      "name": "Alice Johnson",
+      "email": "alice@example.com"
+    },
+    {
+      "id": 102,
+      "name": "Bob Smith",
+      "email": "bob@example.com"
+    },
+    {
+      "id": 103,
+      "name": "Charlie Brown",
+      "email": "charlie@example.com"
+    },
+    {
+      "id": 104,
+      "name": "David Lee",
+      "email": "david@example.com"
+    },
+    {
+      "id": 105,
+      "name": "Eva Martinez",
+      "email": "eva@example.com"
+    },
+    {
+      "id": 106,
+      "name": "Frank Johnson",
+      "email": "frank@example.com"
+    },
+    {
+      "id": 107,
+      "name": "Grace Wang",
+      "email": "grace@example.com"
+    },
+    {
+      "id": 108,
+      "name": "Henry Thompson",
+      "email": "henry@example.com"
+    }
+  ]
+
+}
+
+{
+  "id": 2,
+  "name": "Advanced React Development",
+  "instructor": "Jane Smith",
+  "description": "Dive deeper into React development with advanced techniques and best practices.",
+  "enrollmentStatus": "Open",
+  "thumbnail": "/images/react",
+  "duration": "10 weeks",
+  "schedule": "Mondays and Thursdays, 7:00 PM - 9:00 PM",
+  "location": "Online",
+  "prerequisites": ["Proficiency in React basics", "Experience with state management libraries like Redux"],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "React Hooks",
+      "content": "In-depth study of React hooks and their applications."
+    },
+    {
+      "week": 2,
+      "topic": "Context API",
+      "content": "Advanced usage of React context for state management."
+    },
+    {
+      "week": 3,
+      "topic": "Server-Side Rendering (SSR)",
+      "content": "Implementing server-side rendering in React applications."
+    },
+    {
+      "week": 4,
+      "topic": "Performance Optimization",
+      "content": "Techniques for optimizing React application performance."
+    },
+    {
+      "week": 5,
+      "topic": "Internationalization (i18n)",
+      "content": "Localization and internationalization of React applications."
+    },
+    {
+      "week": 6,
+      "topic": "Error Boundaries",
+      "content": "Implementing error boundaries for better error handling in React."
+    },
+    {
+      "week": 7,
+      "topic": "Web Accessibility (A11y)",
+      "content": "Making React applications accessible to users with disabilities."
+    },
+    {
+      "week": 8,
+      "topic": "React Testing Library",
+      "content": "Testing React components using React Testing Library."
+    },
+    {
+      "week": 9,
+      "topic": "Advanced Routing",
+      "content": "Implementing advanced routing techniques in React applications."
+    },
+    {
+      "week": 10,
+      "topic": "Project Development",
+      "content": "Developing a complex project to apply all learned concepts."
+    }
+  ],
+  "students": [
+    {
+      "id": 201,
+      "name": "Ian Davis",
+      "email": "ian@example.com"
+    },
+    {
+      "id": 202,
+      "name": "Jessica Green",
+      "email": "jessica@example.com"
+    },
+    {
+      "id": 203,
+      "name": "Kevin Brown",
+      "email": "kevin@example.com"
+    },
+    {
+      "id": 204,
+      "name": "Linda Johnson",
+      "email": "linda@example.com"
+    },
+    {
+      "id": 205,
+      "name": "Mike Smith",
+      "email": "mike@example.com"
+    },
+    {
+      "id": 206,
+      "name": "Nancy Lee",
+      "email": "nancy@example.com"
+    },
+    {
+      "id": 207,
+      "name": "Olivia Martinez",
+      "email": "olivia@example.com"
+    },
+    {
+      "id": 208,
+      "name": "Peter Thompson",
+      "email": "peter@example.com"
+    }
+  ]
+}
+{
+  "id": 3,
+  "name": "JavaScript Full Stack Development",
+  "instructor": "Michael Johnson",
+  "description": "Comprehensive course covering full-stack JavaScript development including front-end and back-end technologies.",
+  "enrollmentStatus": "Open",
+  "thumbnail": "/images/fullstack_java",
+  "duration": "12 weeks",
+  "schedule": "Wednesdays and Fridays, 6:00 PM - 8:00 PM",
+  "location": "Online",
+  "prerequisites": ["Basic understanding of HTML and CSS", "Intermediate JavaScript knowledge"],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "Introduction to Full Stack Development",
+      "content": "Overview of full-stack development and its components."
+    },
+    {
+      "week": 2,
+      "topic": "Front-End Development with HTML, CSS, and JavaScript",
+      "content": "Building user interfaces with HTML, CSS, and JavaScript."
+    },
+    {
+      "week": 3,
+      "topic": "Introduction to Node.js",
+      "content": "Setting up Node.js environment and basics of server-side JavaScript."
+    },
+    {
+      "week": 4,
+      "topic": "Express.js and RESTful APIs",
+      "content": "Creating RESTful APIs with Express.js."
+    },
+    {
+      "week": 5,
+      "topic": "Database Management with MongoDB",
+      "content": "Working with MongoDB for database management."
+    },
+    {
+      "week": 6,
+      "topic": "Authentication and Authorization",
+      "content": "Implementing authentication and authorization using JWT."
+    },
+    {
+      "week": 7,
+      "topic": "Front-End Frameworks (React/Vue/Angular)",
+      "content": "Introduction to popular front-end frameworks and their integration with Node.js."
+    },
+    {
+      "week": 8,
+      "topic": "State Management",
+      "content": "Managing state in front-end applications using Redux/Vuex."
+    },
+    {
+      "week": 9,
+      "topic": "Real-Time Communication with WebSockets",
+      "content": "Implementing real-time communication using WebSockets."
+    },
+    {
+      "week": 10,
+      "topic": "Deployment and DevOps",
+      "content": "Deploying applications and basic DevOps practices."
+    },
+    {
+      "week": 11,
+      "topic": "Testing and Debugging",
+      "content": "Testing and debugging strategies for full-stack applications."
+    },
+    {
+      "week": 12,
+      "topic": "Final Project",
+      "content": "Developing a full-stack project to demonstrate learned concepts."
+    }
+  ],
+  "students": [
+    {
+      "id": 301,
+      "name": "Sophia Adams",
+      "email": "sophia@example.com"
+    },
+    {
+      "id": 302,
+      "name": "Thomas Brown",
+      "email": "thomas@example.com"
+    },
+    {
+      "id": 303,
+      "name": "Uma Davis",
+      "email": "uma@example.com"
+    },
+    {
+      "id": 304,
+      "name": "Victor Garcia",
+      "email": "victor@example.com"
+    },
+    {
+      "id": 305,
+      "name": "Wendy Hernandez",
+      "email": "wendy@example.com"
+    },
+    {
+      "id": 306,
+      "name": "Xander Lee",
+      "email": "xander@example.com"
+    },
+    {
+      "id": 307,
+      "name": "Yara Martinez",
+      "email": "yara@example.com"
+    },
+    {
+      "id": 308,
+      "name": "Zoe Nguyen",
+      "email": "zoe@example.com"
+    }
+  ]
+}
+{
+  "id": 4,
+  "name": "HTML & CSS Fundamentals",
+  "instructor": "Emily Johnson",
+  "description": "Learn the fundamentals of HTML and CSS to build modern and responsive websites.",
+  "enrollmentStatus": "Open",
+  "thumbnail": "/images/html_css",
+  "duration": "6 weeks",
+  "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+  "location": "Online",
+  "prerequisites": ["Basic computer literacy"],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "Introduction to HTML",
+      "content": "Overview of HTML structure, tags, and elements."
+    },
+    {
+      "week": 2,
+      "topic": "Basic CSS Styling",
+      "content": "Understanding CSS syntax, selectors, and basic styling techniques."
+    },
+    {
+      "week": 3,
+      "topic": "Responsive Web Design",
+      "content": "Creating responsive layouts using media queries and flexible units."
+    },
+    {
+      "week": 4,
+      "topic": "CSS Flexbox",
+      "content": "Mastering CSS Flexbox for layout design and alignment."
+    },
+    {
+      "week": 5,
+      "topic": "CSS Grid",
+      "content": "Understanding CSS Grid for advanced layout design and alignment."
+    },
+    {
+      "week": 6,
+      "topic": "Advanced Styling Techniques",
+      "content": "Exploring advanced CSS features like animations, transitions, and custom properties."
+    }
+  ],
+  "students": [
+    {
+      "id": 401,
+      "name": "Alice Brown",
+      "email": "alice@example.com"
+    },
+    {
+      "id": 402,
+      "name": "Bob Davis",
+      "email": "bob@example.com"
+    },
+    {
+      "id": 403,
+      "name": "Catherine Evans",
+      "email": "catherine@example.com"
+    },
+    {
+      "id": 404,
+      "name": "David Foster",
+      "email": "david@example.com"
+    },
+    {
+      "id": 405,
+      "name": "Eva Gonzalez",
+      "email": "eva@example.com"
+    },
+    {
+      "id": 406,
+      "name": "Frank Hill",
+      "email": "frank@example.com"
+    },
+    {
+      "id": 407,
+      "name": "Grace Ito",
+      "email": "grace@example.com"
+    },
+    {
+      "id": 408,
+      "name": "Henry Jackson",
+      "email": "henry@example.com"
+    }
+  ]
+}
+
+{
+  "id": 5,
+  "name": "Data Structures and Algorithms",
+  "instructor": "David Brown",
+  "description": "Learn fundamental data structures and algorithms to solve complex problems efficiently.",
+  "enrollmentStatus": "Open",
+  "thumbnail": "/images/DSA",
+  "duration": "10 weeks",
+  "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+  "location": "Online",
+  "prerequisites": ["Basic programming knowledge"],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "Introduction to Data Structures",
+      "content": "Overview of basic data structures like arrays, linked lists, and stacks."
+    },
+    {
+      "week": 2,
+      "topic": "Arrays and Strings",
+      "content": "Understanding array manipulation and string algorithms."
+    },
+    {
+      "week": 3,
+      "topic": "Linked Lists",
+      "content": "Implementation and manipulation of linked lists."
+    },
+    {
+      "week": 4,
+      "topic": "Stacks and Queues",
+      "content": "Understanding stack and queue data structures and their applications."
+    },
+    {
+      "week": 5,
+      "topic": "Trees and Binary Search Trees",
+      "content": "Introduction to tree data structures and binary search trees."
+    },
+    {
+      "week": 6,
+      "topic": "Graphs",
+      "content": "Understanding graph data structures and traversal algorithms."
+    },
+    {
+      "week": 7,
+      "topic": "Sorting Algorithms",
+      "content": "Exploring various sorting algorithms like bubble sort, quicksort, and merge sort."
+    },
+    {
+      "week": 8,
+      "topic": "Searching Algorithms",
+      "content": "Understanding searching algorithms like linear search, binary search, and depth-first search (DFS)."
+    },
+    {
+      "week": 9,
+      "topic": "Dynamic Programming",
+      "content": "Introduction to dynamic programming and its applications in problem-solving."
+    },
+    {
+      "week": 10,
+      "topic": "Final Project and Problem Solving",
+      "content": "Applying learned concepts to solve real-world problems and developing a final project."
+    }
+  ],
+  "students": [
+    {
+      "id": 501,
+      "name": "Alice Adams",
+      "email": "alice@example.com"
+    },
+    {
+      "id": 502,
+      "name": "Bob Brown",
+      "email": "bob@example.com"
+    },
+    {
+      "id": 503,
+      "name": "Catherine Clark",
+      "email": "catherine@example.com"
+    },
+    {
+      "id": 504,
+      "name": "David Davis",
+      "email": "david@example.com"
+    },
+    {
+      "id": 505,
+      "name": "Eva Evans",
+      "email": "eva@example.com"
+    },
+    {
+      "id": 506,
+      "name": "Frank Foster",
+      "email": "frank@example.com"
+    },
+    {
+      "id": 507,
+      "name": "Grace Garcia",
+      "email": "grace@example.com"
+    },
+    {
+      "id": 508,
+      "name": "Henry Hill",
+      "email": "henry@example.com"
+    }
+  ]
+}
+
+{
+  "id": 6,
+  "name": "Programming in Java",
+  "instructor": "Sarah Lee",
+  "description": "Learn the fundamentals of programming in Java, including object-oriented concepts and application development.",
+  "enrollmentStatus": "Open",
+  "thumbnail": "/images/java",
+  "duration": "8 weeks",
+  "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+  "location": "Online",
+  "prerequisites": ["Basic understanding of programming concepts"],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "Introduction to Java",
+      "content": "Overview of Java programming language and setting up the development environment."
+    },
+    {
+      "week": 2,
+      "topic": "Java Basics",
+      "content": "Understanding Java syntax, data types, variables, and operators."
+    },
+    {
+      "week": 3,
+      "topic": "Control Flow Statements",
+      "content": "Using if-else, switch, and loop statements for control flow in Java programs."
+    },
+    {
+      "week": 4,
+      "topic": "Object-Oriented Programming (OOP) Concepts",
+      "content": "Introduction to OOP principles such as classes, objects, inheritance, and polymorphism."
+    },
+    {
+      "week": 5,
+      "topic": "Exception Handling",
+      "content": "Handling exceptions and errors in Java programs."
+    },
+    {
+      "week": 6,
+      "topic": "Collections Framework",
+      "content": "Working with collections like ArrayList, LinkedList, HashMap, and HashSet."
+    },
+    {
+      "week": 7,
+      "topic": "File Handling",
+      "content": "Reading from and writing to files using Java I/O classes."
+    },
+    {
+      "week": 8,
+      "topic": "GUI Development with Swing",
+      "content": "Creating graphical user interfaces (GUIs) using Swing components."
+    }
+  ],
+  "students": [
+    {
+      "id": 601,
+      "name": "Alice Anderson",
+      "email": "alice@example.com"
+    },
+    {
+      "id": 602,
+      "name": "Bob Baker",
+      "email": "bob@example.com"
+    },
+    {
+      "id": 603,
+      "name": "Charlie Clark",
+      "email": "charlie@example.com"
+    },
+    {
+      "id": 604,
+      "name": "David Evans",
+      "email": "david@example.com"
+    },
+    {
+      "id": 605,
+      "name": "Eva Foster",
+      "email": "eva@example.com"
+    },
+    {
+      "id": 606,
+      "name": "Frank Garcia",
+      "email": "frank@example.com"
+    },
+    {
+      "id": 607,
+      "name": "Grace Hill",
+      "email": "grace@example.com"
+    },
+    {
+      "id": 608,
+      "name": "Henry Ingram",
+      "email": "henry@example.com"
+    }
+  ]
+}
+
+{
+  "id": 7,
+  "name": "Artificial Intelligence and Machine Learning",
+  "instructor": "Dr. Samantha Roberts",
+  "description": "Explore the fascinating world of artificial intelligence and machine learning, covering both theory and practical applications.",
+  "enrollmentStatus": "Closed",
+  "thumbnail": "/images/ai_ml",
+  "duration": "12 weeks",
+  "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+  "location": "Online",
+  "prerequisites": ["Basic understanding of programming and mathematics"],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "Introduction to AI and ML",
+      "content": "Overview of artificial intelligence and machine learning concepts, history, and applications."
+    },
+    {
+      "week": 2,
+      "topic": "Linear Algebra for ML",
+      "content": "Fundamental concepts of linear algebra and their relevance to machine learning."
+    },
+    {
+      "week": 3,
+      "topic": "Probability and Statistics",
+      "content": "Probability theory and statistical methods used in machine learning."
+    },
+    {
+      "week": 4,
+      "topic": "Supervised Learning",
+      "content": "Understanding supervised learning algorithms like linear regression, logistic regression, and support vector machines."
+    },
+    {
+      "week": 5,
+      "topic": "Unsupervised Learning",
+      "content": "Exploring unsupervised learning algorithms including clustering and dimensionality reduction techniques."
+    },
+    {
+      "week": 6,
+      "topic": "Deep Learning Fundamentals",
+      "content": "Introduction to neural networks, activation functions, and training techniques."
+    },
+    {
+      "week": 7,
+      "topic": "Convolutional Neural Networks (CNNs)",
+      "content": "Understanding CNN architecture and applications in image recognition and classification."
+    },
+    {
+      "week": 8,
+      "topic": "Recurrent Neural Networks (RNNs)",
+      "content": "Introduction to RNNs and their applications in sequence modeling and time series analysis."
+    },
+    {
+      "week": 9,
+      "topic": "Natural Language Processing (NLP)",
+      "content": "Fundamentals of NLP including text preprocessing, sentiment analysis, and language modeling."
+    },
+    {
+      "week": 10,
+      "topic": "AI Ethics and Bias",
+      "content": "Exploring ethical considerations and biases in AI and ML algorithms."
+    },
+    {
+      "week": 11,
+      "topic": "Machine Learning in Practice",
+      "content": "Real-world applications of AI and ML in various industries."
+    },
+    {
+      "week": 12,
+      "topic": "Final Project and Presentation",
+      "content": "Developing and presenting a machine learning project to showcase learned concepts."
+    }
+  ],
+  "students": [
+    {
+      "id": 701,
+      "name": "Alice Smith",
+      "email": "alice@example.com"
+    },
+    {
+      "id": 702,
+      "name": "Bob Johnson",
+      "email": "bob@example.com"
+    },
+    {
+      "id": 703,
+      "name": "Charlie Brown",
+      "email": "charlie@example.com"
+    },
+    {
+      "id": 704,
+      "name": "David Lee",
+      "email": "david@example.com"
+    },
+    {
+      "id": 705,
+      "name": "Eva Martinez",
+      "email": "eva@example.com"
+    },
+    {
+      "id": 706,
+      "name": "Frank Garcia",
+      "email": "frank@example.com"
+    },
+    {
+      "id": 707,
+      "name": "Grace Wang",
+      "email": "grace@example.com"
+    },
+    {
+      "id": 708,
+      "name": "Henry Thompson",
+      "email": "henry@example.com"
+    }
+  ]
+}
+
+{
+  "id": 8,
+  "name": "React Native Development",
+  "instructor": "Dr. Emily Johnson",
+  "description": "Master the art of building cross-platform mobile applications with React Native.",
+  "enrollmentStatus": "Open",
+  "thumbnail": "/images/react-native",
+  "duration": "10 weeks",
+  "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+  "location": "Online",
+  "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "Introduction to React Native",
+      "content": "Overview of React Native, setting up your development environment."
+    },
+    {
+      "week": 2,
+      "topic": "Building Your First React Native App",
+      "content": "Creating a simple mobile app using React Native components."
+    },
+    {
+      "week": 3,
+      "topic": "Styling and Layouts in React Native",
+      "content": "Understanding styling and layout techniques for React Native applications."
+    },
+    {
+      "week": 4,
+      "topic": "Navigation in React Native",
+      "content": "Implementing navigation between screens in React Native apps."
+    },
+    {
+      "week": 5,
+      "topic": "State Management with Redux",
+      "content": "Managing state in React Native applications using Redux."
+    },
+    {
+      "week": 6,
+      "topic": "Networking and Data Fetching",
+      "content": "Fetching data from APIs and handling network requests in React Native."
+    },
+    {
+      "week": 7,
+      "topic": "Using Native Device Features",
+      "content": "Accessing native device features like camera, GPS, and sensors."
+    },
+    {
+      "week": 8,
+      "topic": "Optimization and Performance",
+      "content": "Techniques for optimizing React Native app performance."
+    },
+    {
+      "week": 9,
+      "topic": "Testing and Debugging",
+      "content": "Testing and debugging strategies for React Native applications."
+    },
+    {
+      "week": 10,
+      "topic": "Deployment and Publishing",
+      "content": "Preparing and publishing React Native apps to app stores."
+    }
+  ],
+  "students": [
+    {
+      "id": 801,
+      "name": "Alice Johnson",
+      "email": "alice@example.com"
+    },
+    {
+      "id": 802,
+      "name": "Bob Smith",
+      "email": "bob@example.com"
+    },
+    {
+      "id": 803,
+      "name": "Charlie Brown",
+      "email": "charlie@example.com"
+    },
+    {
+      "id": 804,
+      "name": "David Lee",
+      "email": "david@example.com"
+    },
+    {
+      "id": 805,
+      "name": "Eva Martinez",
+      "email": "eva@example.com"
+    },
+    {
+      "id": 806,
+      "name": "Frank Johnson",
+      "email": "frank@example.com"
+    },
+    {
+      "id": 807,
+      "name": "Grace Wang",
+      "email": "grace@example.com"
+    },
+    {
+      "id": 808,
+      "name": "Henry Thompson",
+      "email": "henry@example.com"
+    }
+  ]
+}
+
+]
